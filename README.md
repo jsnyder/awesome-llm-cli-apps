@@ -51,8 +51,7 @@ Tools that let AI agents control web browsers from the command line.
 | Tool | Description | Author |
 |------|-------------|--------|
 | [playwright-cli](https://github.com/microsoft/playwright-cli) | Official Playwright CLI for browser automation — navigate, interact, screenshot, extract data. Token-efficient SKILL mode for coding agents. | Microsoft |
-| [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Playwright MCP server — browser automation via structured accessibility snapshots (no vision models needed). | Microsoft |
-| [playwriter](https://github.com/remorses/playwriter) | Control your own Chrome (with existing logins, cookies, extensions) via CLI or MCP. | [@remorses](https://github.com/remorses) |
+| [playwriter](https://github.com/remorses/playwriter) | Control your own Chrome (with existing logins, cookies, extensions) via CLI. Uses your real browser sessions. | [@remorses](https://github.com/remorses) |
 
 ## Project Management
 
