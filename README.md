@@ -69,6 +69,7 @@ Tools that enhance the development workflow when used alongside AI coding agents
 
 | Tool | Description | Author |
 |------|-------------|--------|
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | Local-first TUI/CLI for inspecting AI coding agent sessions, with JSON reports for cost, tokens, time, and slow-run diagnostics. | [@luoyuctl](https://github.com/luoyuctl) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | Terminal UI for git — review diffs, stage hunks, interactive rebase. Essential for reviewing AI-generated changes. 57k+ stars. | [@jesseduffield](https://github.com/jesseduffield) |
 | [aider](https://github.com/Aider-AI/aider) | AI pair programming in your terminal — supports Claude, GPT, Gemini, local models. 39k+ stars. | [@paul-gauthier](https://github.com/paul-gauthier) |
 | [mods](https://github.com/charmbracelet/mods) | AI for the command line — pipe any command output to an LLM. Built by Charm. | [Charm](https://github.com/charmbracelet) |
