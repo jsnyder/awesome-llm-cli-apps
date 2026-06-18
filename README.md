@@ -89,6 +89,7 @@ General terminal tools that pair well with AI-assisted workflows.
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | Ultra-fast recursive search — the engine behind many AI agent search tools. | [@BurntSushi](https://github.com/BurntSushi) |
 | [fd](https://github.com/sharkdp/fd) | Simple, fast alternative to `find`. | [@sharkdp](https://github.com/sharkdp) |
 | [jq](https://github.com/jqlang/jq) | Command-line JSON processor — essential for parsing CLI tool output. | [jqlang](https://github.com/jqlang) |
+| [SnapTidy](https://github.com/chicogong/snaptidy) | AI-powered photo/video organizer for macOS. Deduplicate via pHash/ML vectors, cross-format (HEIC/JPEG), EXIF fix, privacy detection. Conversation-driven with 30+ scripts. | [chicogong](https://github.com/chicogong) |
 
 ## AI Agent Frameworks
 
