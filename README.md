@@ -73,6 +73,7 @@ Tools that enhance the development workflow when used alongside AI coding agents
 | [aider](https://github.com/Aider-AI/aider) | AI pair programming in your terminal — supports Claude, GPT, Gemini, local models. 39k+ stars. | [@paul-gauthier](https://github.com/paul-gauthier) |
 | [mods](https://github.com/charmbracelet/mods) | AI for the command line — pipe any command output to an LLM. Built by Charm. | [Charm](https://github.com/charmbracelet) |
 | [llm](https://github.com/simonw/llm) | CLI for interacting with LLMs — supports plugins, templates, embeddings. Python-based. | [@simonw](https://github.com/simonw) |
+| [RunAPI CLI](https://github.com/runapi-ai/cli) | JSON-first CLI for running AI image, video, music, audio, and LLM jobs from scripts or agents. | RunAPI |
 | [glow](https://github.com/charmbracelet/glow) | Render Markdown in the terminal — great for reading CLAUDE.md, plan files, docs. | [Charm](https://github.com/charmbracelet) |
 | [csvlens](https://github.com/YS-L/csvlens) | TUI for inspecting CSVs — useful when AI agents generate CSV reports. | [@YS-L](https://github.com/YS-L) |
 
