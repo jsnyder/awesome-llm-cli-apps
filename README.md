@@ -75,6 +75,7 @@ Tools that enhance the development workflow when used alongside AI coding agents
 | [llm](https://github.com/simonw/llm) | CLI for interacting with LLMs — supports plugins, templates, embeddings. Python-based. | [@simonw](https://github.com/simonw) |
 | [glow](https://github.com/charmbracelet/glow) | Render Markdown in the terminal — great for reading CLAUDE.md, plan files, docs. | [Charm](https://github.com/charmbracelet) |
 | [csvlens](https://github.com/YS-L/csvlens) | TUI for inspecting CSVs — useful when AI agents generate CSV reports. | [@YS-L](https://github.com/YS-L) |
+| [tree-ring](https://github.com/TerminallyLazy/Tree-Ring-Memory) | Local-first Rust CLI/TUI memory lifecycle for AI agents — remember, recall, forget, export JSONL, audit, consolidate, and scan integrations. | [@TerminallyLazy](https://github.com/TerminallyLazy) |
 
 ## Terminal Productivity
 
