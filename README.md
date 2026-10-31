@@ -69,6 +69,7 @@ Tools that enhance the development workflow when used alongside AI coding agents
 
 | Tool | Description | Author |
 |------|-------------|--------|
+| [kilobat](https://github.com/seifip/kilobat-cli) | macOS network diagnostics with JSON output for coding agents: per-app traffic, Wi-Fi, DNS and host connection checks. | [@seifip](https://github.com/seifip) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | Terminal UI for git — review diffs, stage hunks, interactive rebase. Essential for reviewing AI-generated changes. 57k+ stars. | [@jesseduffield](https://github.com/jesseduffield) |
 | [aider](https://github.com/Aider-AI/aider) | AI pair programming in your terminal — supports Claude, GPT, Gemini, local models. 39k+ stars. | [@paul-gauthier](https://github.com/paul-gauthier) |
 | [mods](https://github.com/charmbracelet/mods) | AI for the command line — pipe any command output to an LLM. Built by Charm. | [Charm](https://github.com/charmbracelet) |
